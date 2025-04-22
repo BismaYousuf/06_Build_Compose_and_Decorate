@@ -1,4 +1,4 @@
-# 🎉 **Python Assignments Repository**
+# 🎉 **Build Compose and Decorate**
 
 This collection includes 21 hands-on assignments covering various Python concepts. Whether you're a beginner or intermediate learner, you'll find useful exercises related to **classes**, **methods**, **decorators**, **inheritance**, and much more!
 
