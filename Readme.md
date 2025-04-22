@@ -1,6 +1,6 @@
 # 🎉 **Python Assignments Repository**
 
-Welcome to the **Python Assignments** repository! This collection includes 21 hands-on assignments covering various Python concepts. Whether you're a beginner or intermediate learner, you'll find useful exercises related to **classes**, **methods**, **decorators**, **inheritance**, and much more!
+This collection includes 21 hands-on assignments covering various Python concepts. Whether you're a beginner or intermediate learner, you'll find useful exercises related to **classes**, **methods**, **decorators**, **inheritance**, and much more!
 
 ## 🚀 **Assignments Overview**
 
